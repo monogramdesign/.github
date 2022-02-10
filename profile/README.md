@@ -2,8 +2,8 @@
 
 Monogram is a digital agency from<br>
 Atlanta. We thrive at the intersection of,<br>
-great design, innovative technologies,<br>
-and providing exceptional service. We,<br>
+great design, innovative technologies<br>
+and providing exceptional service. We<br>
 help you share your story, empowering<br>
 you to make your dent in the universe.
 
